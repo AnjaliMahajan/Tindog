@@ -1,0 +1,25 @@
+
+.contact
+{
+font-family: "Montserrat-black";
+  background-color: white;
+  padding: 7% 15%;
+  text-align: center;
+  line-height: 1.5;
+  font-weight: bolder;
+  color: black;
+}
+
+#testimonials{
+  text-align: center;
+  background-color: #ef8172;
+  color: white;
+}
+
+
+input[type=submit], input[type=reset]{
+ width: 15%;
+ padding: 8px 12px;
+ margin: 5px 0;
+ box-sizing: border-box;
+}

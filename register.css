@@ -1,0 +1,12 @@
+body{
+  font-family: "Montserrat-black";
+  border: 1px solid black;
+  margin: auto;
+  padding: 5px 15px 5px 5px;
+  border-collapse: separate;
+  background-color: #ef8172;
+}
+h2
+{
+  text-align: center;
+}
